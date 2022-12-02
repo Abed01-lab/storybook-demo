@@ -16,13 +16,8 @@ You will also see any lint errors in the console.
 
 ### `yarn storybook`
 
-Runs storybook plugin for documentation of component.\
-Remember to run the following command first
-
-```bash
-npx install storybook
-```
-The storybook will reload when you make edits.
+Runs storybook dashboard in browser.\
+The storybook dashboard will reload when you make edits.
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
